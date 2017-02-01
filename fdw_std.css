@@ -1,0 +1,44 @@
+
+header {
+	background-color : #000;
+	text-align : center;
+}
+
+header h1 {
+	padding-top : 4px;
+	font-size : 32pt;
+	color : #ff8;
+	font-weight : bolder;
+}
+
+header h6 {
+	font-size : 6pt;
+	color : #ff8;
+	letter-spacing : 1px;
+	border-style:solid;
+	border-color:#ff8;
+	border-width:2px 0px 2px 0px;
+}
+
+
+body h2{
+	font-size : 20pt;
+}
+
+body h3{
+	font-size : 16pt;
+}
+
+footer h1{
+	font-size : 12pt;
+	color : #fff;
+	font-weight : normal;
+	text-align : right;
+	background-color : #b0a0ff;
+	padding-top : 20px;
+	padding-bottom : 20px;
+	letter-spacing : 4px;
+	margin-bottom : 2px;
+}
+
+
